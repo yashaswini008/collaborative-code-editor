@@ -22,5 +22,5 @@ Installation
  cd server/
  node server.js
  node websocket.js
-  cd client/
-  npm run dev
+   cd client/
+   npm run dev
